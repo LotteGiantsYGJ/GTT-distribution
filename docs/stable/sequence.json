@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "authority": "operator-aid-only",
+  "channel": "stable",
+  "highestPublishedSequence": 40803719639,
+  "history": [
+    {
+      "sequence": 40803719639,
+      "version": "1.0.3",
+      "tag": "gtt-v1.0.3-s40803719639",
+      "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution/releases/download/gtt-v1.0.3-s40803719639/update-manifest.json"
+    }
+  ],
+  "latestVersion": "1.0.3",
+  "latestTag": "gtt-v1.0.3-s40803719639"
+}
