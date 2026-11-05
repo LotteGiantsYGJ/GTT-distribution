@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "highestPublishedSequence": 41946967335,
+  "highestPublishedSequence": 41979220901,
   "history": [
     {
       "sequence": 40802785784,
@@ -20,8 +20,14 @@
       "version": "1.0.0",
       "tag": "launcher-production-v1.0.0-s41946967335",
       "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution/releases/download/launcher-production-v1.0.0-s41946967335/launcher-update-manifest.json"
+    },
+    {
+      "sequence": 41979220901,
+      "version": "1.1.0",
+      "tag": "launcher-production-v1.1.0-s41979220901",
+      "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution/releases/download/launcher-production-v1.1.0-s41979220901/launcher-update-manifest.json"
     }
   ],
-  "latestVersion": "1.0.0",
-  "latestTag": "launcher-production-v1.0.0-s41946967335"
+  "latestVersion": "1.1.0",
+  "latestTag": "launcher-production-v1.1.0-s41979220901"
 }
