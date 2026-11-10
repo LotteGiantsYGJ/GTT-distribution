@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "authority": "operator-aid-only",
   "channel": "stable",
-  "highestPublishedSequence": 42628435632,
+  "highestPublishedSequence": 42737305899,
   "history": [
     {
       "sequence": 40803719639,
@@ -45,8 +45,14 @@
       "version": "1.1.1",
       "tag": "gtt-v1.1.1-s42628435632",
       "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution/releases/download/gtt-v1.1.1-s42628435632/update-manifest.json"
+    },
+    {
+      "sequence": 42737305899,
+      "version": "1.1.2",
+      "tag": "gtt-v1.1.2-s42737305899",
+      "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution/releases/download/gtt-v1.1.2-s42737305899/update-manifest.json"
     }
   ],
-  "latestVersion": "1.1.1",
-  "latestTag": "gtt-v1.1.1-s42628435632"
+  "latestVersion": "1.1.2",
+  "latestTag": "gtt-v1.1.2-s42737305899"
 }
